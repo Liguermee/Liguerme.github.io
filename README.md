@@ -1,32 +1,31 @@
-# Localizations Done
+# Projects
 
-## Projects
-### Project 1
+## Project 1
 - Description
 - Languages
 - Platforms
 
-### Project 2
+## Project 2
 - Description
 - Languages
 - Platforms
 
-### Project 3
+## Project 3
 - Description
 - Languages
 - Platforms
 
-### Project 4
+## Project 4
 - Description
 - Languages
 - Platforms
 
-### Project 5
+## Project 5
 - Description
 - Languages
 - Platforms
 
-### Project 6
+## Project 6
 - Description
 - Languages
 - Platforms
